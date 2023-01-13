@@ -1,4 +1,4 @@
-# rtsp stream radix
+# rtsp stream teste
 
 Para rodar a aplicação sem docker:
 
