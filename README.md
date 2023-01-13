@@ -1,5 +1,9 @@
 # rtsp stream teste
 
+
+Para testar com o Server em Node, clone o repositorio:
+> https://github.com/rodrigogalhardo/rtsp-server-node.git
+
 Para rodar a aplicação sem docker:
 
 1 - Na pasta servers/socket-server executar os seguintes comandos:
